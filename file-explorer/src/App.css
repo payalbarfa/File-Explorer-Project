@@ -1,0 +1,28 @@
+.App {
+  /* background-color:darkcyan; */
+}
+.FolderHeader{
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.inputContainer{
+   padding-left: 20px;
+   align-items: center;
+   display: flex;
+}
+.file{
+  display: flex;
+}
+.file-action{
+  display: flex;
+}
+.file-Action-Icon{
+  background: none;
+  border: none;
+}
+.icon-color{
+  color: grey;
+}
+.folder{
+  display: flex;
+}
